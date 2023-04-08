@@ -1,0 +1,11 @@
+Giới thiệu về Javascript
+https://cafedev.vn/tu-hoc-javascript-gioi-thieu-ve-javascript/
+
+Một số tài liệu hướng dẫn sử dụng và thông số kỹ thuật chi tiết của Javascript
+https://cafedev.vn/tu-hoc-javascript-mot-so-tai-lieu-huong-dan-su-dung-va-thong-so-ky-thuat-chi-tiet-cua-javascript/
+
+Top những trình chỉnh sửa code or IDE cho Javascript
+https://cafedev.vn/tu-hoc-javascript-top-nhung-trinh-chinh-sua-code-cho-javascript/
+
+Develop console trong Javascript
+https://cafedev.vn/tu-hoc-javascript-develop-console-trong-javascript/
